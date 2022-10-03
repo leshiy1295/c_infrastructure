@@ -11,3 +11,4 @@
 $ docker build . -f Dockerfile -t my_new_image
 $ docker run -d -it my_new_image bash
 ```
+
